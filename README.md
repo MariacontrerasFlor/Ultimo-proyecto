@@ -20,3 +20,6 @@ Contraseña: Chetokun1
 La musica nos inspira a seguir unidos e conectados ,se utiliza para que el evento no sea aburrido y tenga una forma de que sea agradable.La música es utilizada para acompañar a otras actividades, por ejemplo, la danza, y aunque no todas las melodías contengan palabras, su relación con la poesía también es muy estrecha. También es un componente básico en los servicios religiosos, rituales, teatro y todo tipo de entretenimiento.
 
 En nuestra tienda encontraras gran variedad de discos, entre los mas actuales del catalogo. Es increíble fomentar las música y nos hacemos participes de esa gran causa.
+
+# Link de diapositivas:
+https://www.canva.com/design/DAE5FjhbNwI/GKTnEY01bTAsRL30B6OS2g/view?utm_content=DAE5FjhbNwI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
