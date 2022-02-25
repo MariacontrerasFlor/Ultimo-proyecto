@@ -2,9 +2,9 @@
 # Link del Wordprees: http://www.bruno.com.mialias.net/
 
 # Integrantes:
-Flor Contreras
-Flor Meza
-Marjied Rumiche
+Flor Contreras/
+Flor Meza/
+Marjied Rumiche/
 Keila Bereche
 
 # Datos del Hosting:
